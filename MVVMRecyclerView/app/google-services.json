@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "343815326947",
+    "firebase_url": "https://mvvm-firebase-recyclervi-4ede9.firebaseio.com",
+    "project_id": "mvvm-firebase-recyclervi-4ede9",
+    "storage_bucket": "mvvm-firebase-recyclervi-4ede9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343815326947:android:049e62b627b14dfe5d49d6",
+        "android_client_info": {
+          "package_name": "dev.norman.mvvm_firebase_recyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343815326947-ccdlg5ubmorqb4touenllto1i0j9rho9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNUhndTc7TlRs1vQ00UasUxsSmCGzYPcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343815326947-ccdlg5ubmorqb4touenllto1i0j9rho9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
