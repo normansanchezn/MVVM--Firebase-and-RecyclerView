@@ -6,6 +6,8 @@ buildscript {
         firestorage = "22.0.0"
         shimmer_layout = "0.5.0"
         room_version = "2.2.5"
+        recycler_view = "1.1.0"
+        glide = "4.11.0"
     }
     repositories {
         google()
