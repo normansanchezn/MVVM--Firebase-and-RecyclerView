@@ -11,7 +11,7 @@ import dev.norman.mvvm_firebase_recyclerview.utils.Constants
  */
 class FirebaseServices {
     private val firebaseInstance = FirebaseFirestore.getInstance()
-    private val const = Constants()
+    private val const = Constants
 
     fun getUsers(): MutableLiveData<MutableList<UserEntity>> {
         val userListRemote = MutableLiveData<MutableList<UserEntity>>()
